@@ -1,0 +1,28 @@
+version: "3"
+services:
+  loadbalancer:
+    build: ./loadbalancer # Path to the Dockerfile
+    image: imagenamea
+    container_name: containernameA
+    ports:
+      - "80:5000" # Exposing port to host
+    volumes:
+      - //var/run/docker.sock:/var/run/docker.sock
+      - /usr/local/bin/docker:/usr/bin/docker
+    # This share host’s the docker daemon with the container. Now, the container can spawn other containers just like host
+    privileged: true # This should be true to share the docker daemon
+    environment:
+      VAR1: VALUE1
+  
+  server:
+    build: ./server
+    image: master_flask_copy
+    volumes:
+      - ./server:/app
+    ports:
+      - 5001:5001
+    environment:
+      port: 5001
+      ID: 0
+    stdin_open: true
+    tty: true
