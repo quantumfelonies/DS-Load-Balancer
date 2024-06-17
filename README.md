@@ -62,8 +62,18 @@ We have included a comprehensive set of tests to ensure the correct functioning 
 
 The details of the testing and performance analysis can be found in the `README.md` file in the project's root directory.
 
-##Experimental Reuslts
-![Alt text]("C:\Users\Christine\Downloads\WhatsApp Image 2024-06-15 at 22.55.13.jpeg")
+## Experimental Reuslts
+![WhatsApp Image 2024-06-15 at 22 55 13 (1)](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/45e58126-9e5a-4d3d-b231-340aab1a06be)
+
+![WhatsApp Image 2024-06-15 at 22 36 49](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/c8d392a4-db57-4c18-b447-8e8060a95646)
+
+![WhatsApp Image 2024-06-15 at 22 36 48](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/000741a2-c078-41cc-ba24-a145674703fa)
+
+![WhatsApp Image 2024-06-15 at 22 36 48 (1)](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/5aea4cb9-9d92-41ee-b2aa-c3d0248c3ae4)
+
+![WhatsApp Image 2024-06-15 at 22 36 47](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/1a3b219e-edef-4b76-a117-c3e86e3bc95d)
+
+![WhatsApp Image 2024-06-15 at 22 55 13](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/00ee46af-a196-4ab5-83a6-62dfc5fd7225)
 
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open a new issue or submit a pull request.
