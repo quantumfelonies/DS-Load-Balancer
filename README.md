@@ -62,6 +62,9 @@ We have included a comprehensive set of tests to ensure the correct functioning 
 
 The details of the testing and performance analysis can be found in the `README.md` file in the project's root directory.
 
+##Experimental Reuslts
+![Alt text]("C:\Users\Christine\Downloads\WhatsApp Image 2024-06-15 at 22.55.13.jpeg")
+
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open a new issue or submit a pull request.
 
