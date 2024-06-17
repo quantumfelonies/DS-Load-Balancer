@@ -64,9 +64,9 @@ The details of the testing and performance analysis can be found in the `README.
 
 ## Experimental Reuslts
 
-![WhatsApp Image 2024-06-15 at 22 36 49](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/c8d392a4-db57-4c18-b447-8e8060a95646)
-
 ![WhatsApp Image 2024-06-15 at 22 36 48 (1)](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/5aea4cb9-9d92-41ee-b2aa-c3d0248c3ae4)
+
+![WhatsApp Image 2024-06-15 at 22 36 49](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/c8d392a4-db57-4c18-b447-8e8060a95646)
 
 ![WhatsApp Image 2024-06-15 at 22 36 47](https://github.com/quantumfelonies/DS-Load-Balancer/assets/122482160/1a3b219e-edef-4b76-a117-c3e86e3bc95d)
 
